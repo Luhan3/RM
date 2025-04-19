@@ -1,0 +1,10 @@
+name: binder-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy=1.23.5
+  - pandas=1.5.3
+  - plotly=5.15.0
+  - scikit-learn=1.2.2
+  - jupyter=1.0.0
